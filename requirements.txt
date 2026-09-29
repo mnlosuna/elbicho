@@ -1,0 +1,5 @@
+fastapi
+sqlmodel
+uvicorn[standard]
+passlib[argon2]
+psycopg[binary]

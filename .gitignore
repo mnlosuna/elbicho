@@ -1,0 +1,5 @@
+elbicho/
+__pycache__/
+*.py[cod]
+.env
+app.db
